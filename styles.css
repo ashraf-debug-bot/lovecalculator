@@ -1,0 +1,54 @@
+body{
+  background-color: pink;
+  text-align: center;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 1.5rem;
+
+}
+.container-fluid{
+  padding:4% 7% 15%;
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+#statement{
+  color:black;
+}
+p{
+  font-family: 'Fruktur', cursive;
+  font-size: 2rem;
+  color:white;
+}
+h1{
+  font-size: 2rem;
+}
+a{
+  color:black;
+  background-color: white;
+  padding:10px;
+  padding-left: 25px;
+  text-decoration: none;
+  border-radius: 10%;
+}
+a:hover{
+  color:pink;
+}
+.cal{
+  margin:20px;
+}
+#First{
+  padding: 10px;
+  padding-left: 80px;
+  margin:10px;
+}
+#Second{
+  padding: 10px;
+  padding-left: 80px;
+}
+#print{
+  display: flex;
+  justify-content: center;
+  background-color: #d7385c;
+padding:15%;
+}
+input{
+  padding: 10%;
+}
